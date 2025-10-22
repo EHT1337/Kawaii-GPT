@@ -8,28 +8,13 @@ Working LIC:
 ## You don't need an Api Key!
 Forum: [Telegram](https://t.me/kawaiigpt_official)
 
-## Use (Linux Distro)
+## Use
 ---
 ``` bash
-apt-get update && apt-get upgrade (if not updated and upgraded)
-apt install python3 && apt install python3-pip
-apt install git
 git clone https://github.com/MrSanZz/KawaiiGPT
-cd KawaiiGPT
-python3 install.py
-python3 kawai.py
-```
----
-## Use (Termux)
----
-``` bash
-pkg update && pkg upgrade (if not updated and upgraded)
-pkg install python3
-pkg install git
-git clone https://github.com/MrSanZz/KawaiiGPT
-cd KawaiiGPT
-python3 install.py
-python3 kawai.py
+cd Kawaii-GPT
+python install.py
+python kawai.py
 ```
 ---
 - *Have fun! (support me with star ⭐ !!)*
@@ -71,5 +56,5 @@ if it's obfuscated that means I just want to avoid recoding and selling
 ## [TotalVirus](https://www.virustotal.com/gui/file/bf049a183dd6be7c980e063f42a5549d7b78683500d20ad10fd2f5a172c9b529)
 ## [Shoukaku07](https://github.com/Shoukaku07)
 
-> Best regards, ```MrSanZz+Shoukaku07```
+> Best regards, ```gawthe```
 Made with 🔥
