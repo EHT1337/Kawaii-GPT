@@ -11,7 +11,7 @@ Forum: [Telegram](https://t.me/kawaiigpt_official)
 ## Use
 ---
 ``` bash
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/gawthe/Kawaii-GPT
 cd Kawaii-GPT
 python install.py
 python kawai.py
@@ -54,7 +54,6 @@ if it's obfuscated that means I just want to avoid recoding and selling
 ---
 
 ## [TotalVirus](https://www.virustotal.com/gui/file/bf049a183dd6be7c980e063f42a5549d7b78683500d20ad10fd2f5a172c9b529)
-## [Shoukaku07](https://github.com/Shoukaku07)
 
 > Best regards, ```gawthe```
 Made with 🔥
