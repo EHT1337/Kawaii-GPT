@@ -1,7 +1,7 @@
 import os
 from update import *
 
-def check():
+def check(): 
     try:
         is_android = os.path.exists('/system/bin/app_process') or os.path.exists('/system/bin/app_process32')
         if is_android:
