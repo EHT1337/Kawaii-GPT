@@ -1,5 +1,5 @@
 
-# ⚠️⚠️⚠️ CAUTION !!! THIS IS A MALWARE LOADER !!! ⚠️⚠️⚠️
+# ⚠️ CAUTION !!! THIS IS A MALWARE LOADER !!! ⚠️
 
 Working LIC:
 ``` bash
